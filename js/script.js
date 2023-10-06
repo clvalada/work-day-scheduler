@@ -10,7 +10,7 @@ $(function () {
   // time-block containing the button that was clicked? How might the id be
   // useful when saving the description in local storage?
   //
-  // TODO: Add code to apply the past, present, or future class to each time
+  // Add code to apply the past, present, or future class to each time
   // block by comparing the id to the current hour. 
 
     // Get the current hour using Day.js
@@ -43,6 +43,6 @@ $(function () {
   // TODO: Add code to display the current date in the header of the page.
   var currentDay = $('#current-day');
   var today = dayjs();
-  currentDay.text(today.format('dddd, MMMM D, YYYY HH:mm'));
+  currentDay.text(today.format('dddd, MMMM D, YYYY hh:mm A'));
 
 });

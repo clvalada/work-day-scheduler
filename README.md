@@ -2,8 +2,6 @@
 
 Work day scheduler is a color-coded daily planner that enables the user to schedule time blocks for his or her day. 
 
-## Tech Stack
-
 HTML, Javascript, CSS, jQuery, Bootstrap, Day.JS
 
 ## User Story
