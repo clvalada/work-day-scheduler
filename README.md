@@ -4,6 +4,10 @@ Work day scheduler is a color-coded daily planner that enables the user to sched
 
 HTML, Javascript, CSS, jQuery, Bootstrap, Day.JS
 
+Link to deployed app:
+https://clvalada.github.io/work-day-scheduler/
+
+
 ## User Story
 
 ```
@@ -34,3 +38,15 @@ The following animation demonstrates the application functionality:
 
 <!-- @TODO: create ticket to review/update image) -->
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+
+## Collaborators
+
+None
+
+## License
+
+MIT
+
+## Contact
+
+GitHub: clvalada
